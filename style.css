@@ -41,6 +41,7 @@ body{
     border: 2px solid silver;
     color: aliceblue;
     font-family: "Fredoka", sans-serif;
+    text-shadow: 1px 1px 1.5px black;
 }
 .texto{
     height: 25px;
@@ -77,3 +78,10 @@ a:hover{
     text-decoration: underline;
 }
 
+#Lsalvar{
+    text-shadow: 1px 1px 1.5px black;
+}
+
+#p1{
+    text-shadow: 1px 1px 1.5px black;
+}
